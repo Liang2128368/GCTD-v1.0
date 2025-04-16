@@ -5,15 +5,6 @@ The codes for overlapping and distance calculation in the Technical Validation p
 
 ## Author(s)
 
-Liwen Liang lianglw@cib.ac.cn
-
-Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu 610041, People’s Republic of China
-
-University of Chinese Academy of Sciences, Beijing 100049, China
-
-Ziyan Liao liaozy@cib.ac.cn
-
-Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu 610041, People’s Republic of China
 
 
 ## Citation
